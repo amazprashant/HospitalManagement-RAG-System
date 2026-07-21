@@ -1,0 +1,26 @@
+Diabetes Mellitus - Patient Information Guide
+
+What is Diabetes?
+Diabetes is a chronic condition where the body cannot properly regulate blood sugar (glucose) levels, either because it doesn't produce enough insulin (Type 1) or doesn't use insulin effectively (Type 2).
+
+Common Symptoms
+- Frequent urination
+- Excessive thirst
+- Unexplained weight loss
+- Fatigue and blurred vision
+- Slow-healing wounds
+
+Diagnosis
+Diagnosis is typically made through fasting blood glucose tests, HbA1c tests, or an oral glucose tolerance test. Patients with a fasting glucose above 126 mg/dL on two separate occasions are generally diagnosed with diabetes.
+
+Management
+- Type 1 diabetes requires lifelong insulin therapy.
+- Type 2 diabetes is managed with lifestyle changes (diet, exercise), oral medications, and sometimes insulin.
+- Regular blood sugar monitoring is essential for both types.
+- Patients should attend the Endocrinology outpatient clinic every 3 months for follow-up.
+
+Complications if Untreated
+Poorly controlled diabetes can lead to nerve damage, kidney disease, vision loss, and increased risk of heart disease and stroke.
+
+When to Seek Emergency Care
+Seek immediate medical attention for symptoms of very high or very low blood sugar, such as confusion, fainting, rapid breathing, or fruity-smelling breath.
